@@ -1,0 +1,7 @@
+.keyboardContainer {
+  background: linear-gradient(to bottom, #eee 0%, #fff 100%);
+  width: 80%;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+}
